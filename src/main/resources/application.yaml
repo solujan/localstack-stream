@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: localstack-stream
+
+aws:
+  endpoint: http://localhost:4566
+  access_key: test
+  secret_access_key: test
